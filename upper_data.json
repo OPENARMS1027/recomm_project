@@ -1,0 +1,3530 @@
+[
+    {
+        "id": "4038037",
+        "rank": 1,
+        "name": "익스플로 버니 피그먼트 반팔티 스모크블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240409/4038037/4038037_17126437739381_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4038037",
+        "crawledAt": "2025-09-08 22:11:00.078784"
+    },
+    {
+        "id": "4182642",
+        "rank": 2,
+        "name": "HUFF Hoppi 피그먼트 반팔티 다크블루",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240607/4182642/4182642_17177373646056_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "그래픽 티셔츠",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4182642",
+        "crawledAt": "2025-09-08 22:11:03.145993"
+    },
+    {
+        "id": "3943019",
+        "rank": 3,
+        "name": "DTP 해피 데이 반팔티 화이트",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240312/3943019/3943019_17108267959953_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "그래픽",
+                "percentage": 20
+            },
+            {
+                "name": "페미닌",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3943019",
+        "crawledAt": "2025-09-08 22:11:06.218833"
+    },
+    {
+        "id": "4302685",
+        "rank": 4,
+        "name": "SORANO Basic Logo HOODIE [6Color]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240807/4302685/4302685_17229675684379_500.jpg",
+        "brand_en": "sorano",
+        "brand": "소라노",
+        "price": 119000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4302685",
+        "crawledAt": "2025-09-08 22:11:08.987656"
+    },
+    {
+        "id": "4992830",
+        "rank": 5,
+        "name": "데일리 쿨 하프 니트",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250407/4992830/4992830_17455602368529_500.jpg",
+        "brand_en": "suare",
+        "brand": "수아레",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "니트",
+                "percentage": 70
+            },
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "미니멀",
+                "percentage": 30
+            },
+            {
+                "name": "스포티",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4992830",
+        "crawledAt": "2025-09-08 22:11:11.974532"
+    },
+    {
+        "id": "5167907",
+        "rank": 6,
+        "name": "컴포트 크롭 반팔티 ( 3Color )",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250605/5167907/5167907_17490904579707_500.jpg",
+        "brand_en": "brenson",
+        "brand": "브렌슨",
+        "price": 27400,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "라운드넥",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5167907",
+        "crawledAt": "2025-09-08 22:11:15.567527"
+    },
+    {
+        "id": "4794103",
+        "rank": 7,
+        "name": "Precious 레글런 반팔티 브라운",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250217/4794103/4794103_17533229204787_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "스웻셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "귀여운",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4794103",
+        "crawledAt": "2025-09-08 22:11:18.438778"
+    },
+    {
+        "id": "4782996",
+        "rank": 8,
+        "name": "[SET] 그래픽 피그먼트 오버핏 반팔티셔츠 PART04",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250212/4782996/4782996_17419458346504_500.jpg",
+        "brand_en": "mozmoz",
+        "brand": "모즈모즈",
+        "price": 68000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "그래픽 티셔츠",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4782996",
+        "crawledAt": "2025-09-08 22:11:21.462289"
+    },
+    {
+        "id": "4886457",
+        "rank": 9,
+        "name": "오버핏 1:1 스트라이프 긴팔티 ( 5Color )",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250312/4886457/4886457_17507299979547_500.jpg",
+        "brand_en": "brenson",
+        "brand": "브렌슨",
+        "price": 27400,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "줄무늬 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "기본",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4886457",
+        "crawledAt": "2025-09-08 22:11:24.752289"
+    },
+    {
+        "id": "4794109",
+        "rank": 10,
+        "name": "캐럿 홉피 피그먼트 반팔티 더스티핑크",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250217/4794109/4794109_17397764900924_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4794109",
+        "crawledAt": "2025-09-08 22:11:27.741511"
+    },
+    {
+        "id": "5092402",
+        "rank": 11,
+        "name": "치즈 베리 피그먼트 반팔티 스모크블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250507/5092402/5092402_17467024996811_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "그래픽 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 15
+            },
+            {
+                "name": "귀여운",
+                "percentage": 5
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5092402",
+        "crawledAt": "2025-09-08 22:11:32.552397"
+    },
+    {
+        "id": "4172293",
+        "rank": 12,
+        "name": "빈티지 링클 체크셔츠_4Color",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240603/4172293/4172293_17567770391050_500.jpg",
+        "brand_en": "maninstore",
+        "brand": "무드인사이드",
+        "price": 59900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "아우터",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 30
+            },
+            {
+                "name": "스트릿",
+                "percentage": 15
+            },
+            {
+                "name": "레트로",
+                "percentage": 5
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4172293",
+        "crawledAt": "2025-09-08 22:11:35.666633"
+    },
+    {
+        "id": "3625615",
+        "rank": 13,
+        "name": "Funk Mesh Top - Black",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20231013/3625615/3625615_17168719123899_500.jpg",
+        "brand_en": "rockcake",
+        "brand": "락케이크",
+        "price": 54000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "고스",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3625615",
+        "crawledAt": "2025-09-08 22:11:38.946332"
+    },
+    {
+        "id": "5376547",
+        "rank": 14,
+        "name": "마운틴 롱슬리브 네이비 (우먼)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250828/5376547/5376547_17566261509650_500.jpg",
+        "brand_en": "tansanmagnesium",
+        "brand": "탄산마그네슘",
+        "price": 69000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "팬츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5376547",
+        "crawledAt": "2025-09-08 22:11:41.807378"
+    },
+    {
+        "id": "4762776",
+        "rank": 15,
+        "name": "STAR WING SHEER LONG SLEEVE_GY",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250206/4762776/4762776_17398454766269_500.jpg",
+        "brand_en": "gilaarchive",
+        "brand": "길라아카이브",
+        "price": 59000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "데님 핫팬츠",
+                "percentage": 90
+            },
+            {
+                "name": "액세서리",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            },
+            {
+                "name": "힙합",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4762776",
+        "crawledAt": "2025-09-08 22:11:44.986387"
+    },
+    {
+        "id": "4227437",
+        "rank": 16,
+        "name": "87-STAN081 원포켓 빈티지 오버핏 긴팔 체크 셔츠 네이비",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240702/4227437/4227437_17554971051018_500.jpg",
+        "brand_en": "standarderror",
+        "brand": "스탠다드에러",
+        "price": 54000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "플란넬 셔츠",
+                "percentage": 70
+            },
+            {
+                "name": "체크 셔츠",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 25
+            },
+            {
+                "name": "레트로",
+                "percentage": 15
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4227437",
+        "crawledAt": "2025-09-08 22:11:48.762821"
+    },
+    {
+        "id": "2690691",
+        "rank": 17,
+        "name": "무지 머슬핏 반팔 5컬러",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220801/2690691/2690691_17090175122341_500.jpg",
+        "brand_en": "hugvone",
+        "brand": "허그본",
+        "price": 25000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "기본/일상",
+                "percentage": 60
+            },
+            {
+                "name": "스포츠/애슬레저",
+                "percentage": 30
+            },
+            {
+                "name": "슬림핏",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2690691",
+        "crawledAt": "2025-09-08 22:11:51.610561"
+    },
+    {
+        "id": "5026626",
+        "rank": 18,
+        "name": "레더 패치 오버핏 워크 데님 반팔 셔츠 [옐로우 블랙]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250414/5026626/5026626_17458963897203_500.jpg",
+        "brand_en": "trillion",
+        "brand": "트릴리온",
+        "price": 48000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5026626",
+        "crawledAt": "2025-09-08 22:11:54.454639"
+    },
+    {
+        "id": "5187827",
+        "rank": 19,
+        "name": "[SET-UP] 럭비 오버핏 메시 하프 셋업_3color",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250616/5187827/5187827_17504003447171_500.jpg",
+        "brand_en": "drix",
+        "brand": "드릭스",
+        "price": 94000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 50
+            },
+            {
+                "name": "반바지",
+                "percentage": 50
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "스포츠",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            },
+            {
+                "name": "레트로",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5187827",
+        "crawledAt": "2025-09-08 22:11:58.933828"
+    },
+    {
+        "id": "4002344",
+        "rank": 20,
+        "name": "MAISON DE ROLA EMBROIDERY T-SHIRT WHITE",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240328/4002344/4002344_17442536798275_500.jpg",
+        "brand_en": "rolarola",
+        "brand": "로라로라",
+        "price": 43000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4002344",
+        "crawledAt": "2025-09-08 22:12:02.818544"
+    },
+    {
+        "id": "4345043",
+        "rank": 21,
+        "name": "T-Logo Hoodie Heather Grey",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240820/4345043/4345043_17248088394803_500.jpg",
+        "brand_en": "thisisneverthat",
+        "brand": "디스이즈네버댓",
+        "price": 95000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 90
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "스포티",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4345043",
+        "crawledAt": "2025-09-08 22:12:05.743246"
+    },
+    {
+        "id": "5276013",
+        "rank": 22,
+        "name": "레더 패치 데님 카라 럭비 맨투맨_네이비",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250728/5276013/5276013_17545474942483_500.jpg",
+        "brand_en": "trillion",
+        "brand": "트릴리온",
+        "price": 50000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "맨투맨",
+                "percentage": 70
+            },
+            {
+                "name": "폴로 티셔츠",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "데님",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5276013",
+        "crawledAt": "2025-09-08 22:12:08.752415"
+    },
+    {
+        "id": "3039177",
+        "rank": 23,
+        "name": "PLUR LOGO HOODIE BLACK(CV2BFUM402A)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230126/3039177/3039177_17513568539974_500.jpg",
+        "brand_en": "cavish",
+        "brand": "카비시",
+        "price": 79000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 90
+            },
+            {
+                "name": "비니",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3039177",
+        "crawledAt": "2025-09-08 22:12:11.632302"
+    },
+    {
+        "id": "4757913",
+        "rank": 24,
+        "name": "와플 링 스냅 헨리넥 롱 슬리브 [블랙]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250204/4757913/4757913_17388174210742_500.jpg",
+        "brand_en": "trillion",
+        "brand": "트릴리온",
+        "price": 38000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "헨리넥 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "미니멀",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4757913",
+        "crawledAt": "2025-09-08 22:12:14.795523"
+    },
+    {
+        "id": "2442409",
+        "rank": 25,
+        "name": "[16수 코마사] 2PACK 스몰아치 반팔티셔츠 화이트/블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220324/2442409/2442409_17424359787816_500.jpg",
+        "brand_en": "yale",
+        "brand": "예일",
+        "price": 39000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2442409",
+        "crawledAt": "2025-09-08 22:12:17.577929"
+    },
+    {
+        "id": "4143736",
+        "rank": 26,
+        "name": "써머 링클 오션 체크남방 _5Color",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240521/4143736/4143736_17567131668806_500.jpg",
+        "brand_en": "maninstore",
+        "brand": "무드인사이드",
+        "price": 69900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            },
+            {
+                "name": "레트로",
+                "percentage": 10
+            },
+            {
+                "name": "스트릿",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4143736",
+        "crawledAt": "2025-09-08 22:12:20.978145"
+    },
+    {
+        "id": "3005822",
+        "rank": 27,
+        "name": "TAG OG LONGSLEEVE - WHITE",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230104/3005822/3005822_17392559844752_500.jpg",
+        "brand_en": "brownbreath",
+        "brand": "브라운브레스",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 70
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3005822",
+        "crawledAt": "2025-09-08 22:12:23.493910"
+    },
+    {
+        "id": "4762803",
+        "rank": 28,
+        "name": "LETTERING SHEER LONG SLEEVE_WH",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250206/4762803/4762803_17397641924475_500.jpg",
+        "brand_en": "gilaarchive",
+        "brand": "길라아카이브",
+        "price": 59000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 70
+            },
+            {
+                "name": "스커트",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "페미닌",
+                "percentage": 20
+            },
+            {
+                "name": "아방가르드",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4762803",
+        "crawledAt": "2025-09-08 22:12:26.695905"
+    },
+    {
+        "id": "4705470",
+        "rank": 29,
+        "name": "오버핏 플란넬 포켓 체크 셔츠 [블랙]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250108/4705470/4705470_17542925297860_500.jpg",
+        "brand_en": "lemainsecond",
+        "brand": "리메인세컨드",
+        "price": 43500,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "플란넬 셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "체크 셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4705470",
+        "crawledAt": "2025-09-08 22:12:29.761471"
+    },
+    {
+        "id": "983339",
+        "rank": 30,
+        "name": "베이식 드레스 셔츠 [화이트]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20190315/983339/983339_2_500.jpg",
+        "brand_en": "musinsastandard",
+        "brand": "무신사 스탠다드",
+        "price": 33900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "미니멀",
+                "percentage": 50
+            },
+            {
+                "name": "모던",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/983339",
+        "crawledAt": "2025-09-08 22:12:32.412277"
+    },
+    {
+        "id": "2518417",
+        "rank": 31,
+        "name": "[2PACK] 190g 싱글 에어그램  반팔 티셔츠 (JR5TSU159BK)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220427/2518417/2518417_17406395055563_500.jpg",
+        "brand_en": "jeep",
+        "brand": "지프",
+        "price": 55000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "스포츠",
+                "percentage": 10
+            },
+            {
+                "name": "미니멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2518417",
+        "crawledAt": "2025-09-08 22:12:35.455974"
+    },
+    {
+        "id": "2034137",
+        "rank": 32,
+        "name": "릴렉스 핏 크루 넥 반팔 티셔츠 2팩",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20210719/2034137/2034137_17138591099209_500.jpg",
+        "brand_en": "musinsastandard",
+        "brand": "무신사 스탠다드",
+        "price": 31800,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "미니멀",
+                "percentage": 30
+            },
+            {
+                "name": "베이직",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2034137",
+        "crawledAt": "2025-09-08 22:12:38.267922"
+    },
+    {
+        "id": "2479911",
+        "rank": 33,
+        "name": "[2PACK] 수피마 코튼 티셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220411/2479911/2479911_17153033789269_500.jpg",
+        "brand_en": "coor",
+        "brand": "쿠어",
+        "price": 76000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "미니멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2479911",
+        "crawledAt": "2025-09-08 22:12:41.064917"
+    },
+    {
+        "id": "4755834",
+        "rank": 34,
+        "name": "WISH RIBBED BUTTON TEE / IVORY",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250204/4755834/4755834_17392416129512_500.jpg",
+        "brand_en": "ason",
+        "brand": "애즈온",
+        "price": 48000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "헨리넥 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 80
+            },
+            {
+                "name": "미니멀",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4755834",
+        "crawledAt": "2025-09-08 22:12:44.271487"
+    },
+    {
+        "id": "2759813",
+        "rank": 35,
+        "name": "SP 팀 로고 후드-멜란지 그레이",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220831/2759813/2759813_1_500.jpg",
+        "brand_en": "saintpain",
+        "brand": "세인트페인",
+        "price": 85000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 60
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2759813",
+        "crawledAt": "2025-09-08 22:12:46.862663"
+    },
+    {
+        "id": "4935958",
+        "rank": 36,
+        "name": "키쉬 체크셔츠 (블랙)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250324/4935958/4935958_17562694643830_500.jpg",
+        "brand_en": "anolorcode",
+        "brand": "어널러코드",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "팬츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            },
+            {
+                "name": "모던",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4935958",
+        "crawledAt": "2025-09-08 22:12:49.829498"
+    },
+    {
+        "id": "5275916",
+        "rank": 37,
+        "name": "[패션플래닛X드로우핏] 워시드 크롭 옥스퍼드 셔츠 [5color]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250728/5275916/5275916_17564335238263_500.jpg",
+        "brand_en": "drawfit",
+        "brand": "드로우핏",
+        "price": 55000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "슬랙스",
+                "percentage": 90
+            },
+            {
+                "name": "셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "미니멀",
+                "percentage": 30
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5275916",
+        "crawledAt": "2025-09-08 22:12:53.089786"
+    },
+    {
+        "id": "5190806",
+        "rank": 38,
+        "name": "Graychill 피그먼트 워싱 반팔 티셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250617/5190806/5190806_17501458480730_500.jpg",
+        "brand_en": "vivalavida",
+        "brand": "비바라비다",
+        "price": 49900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5190806",
+        "crawledAt": "2025-09-08 22:12:55.702462"
+    },
+    {
+        "id": "4281004",
+        "rank": 39,
+        "name": "빅 트위치 로고 후드 티셔츠 네이비",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240729/4281004/4281004_17388346697137_500.jpg",
+        "brand_en": "lee",
+        "brand": "리",
+        "price": 89000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "스포티",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4281004",
+        "crawledAt": "2025-09-08 22:12:59.255455"
+    },
+    {
+        "id": "4265181",
+        "rank": 40,
+        "name": "Plan L/S Tee White",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240722/4265181/4265181_17558313591552_500.jpg",
+        "brand_en": "teket",
+        "brand": "테켓",
+        "price": 65000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 70
+            },
+            {
+                "name": "데님 스커트",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            },
+            {
+                "name": "심플",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4265181",
+        "crawledAt": "2025-09-08 22:13:02.273104"
+    },
+    {
+        "id": "4949728",
+        "rank": 41,
+        "name": "키튼 패치 피그먼트 반팔티 브라운",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250326/4949728/4949728_17430646128881_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4949728",
+        "crawledAt": "2025-09-08 22:13:05.133187"
+    },
+    {
+        "id": "4055771",
+        "rank": 42,
+        "name": "VLAD 피그먼트 슬래쉬 반팔 티셔츠_차콜",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240415/4055771/4055771_17164413957204_500.png",
+        "brand_en": "dimitriblack",
+        "brand": "디미트리블랙",
+        "price": 40900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4055771",
+        "crawledAt": "2025-09-08 22:13:07.848759"
+    },
+    {
+        "id": "4838119",
+        "rank": 43,
+        "name": "[2PACK] 14수 7.4oz 헤비웨이트 라운드 오버핏 무지 반팔 티셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250226/4838119/4838119_17405717515529_500.jpg",
+        "brand_en": "printstar",
+        "brand": "프린트스타",
+        "price": 43200,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "기본",
+                "percentage": 30
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4838119",
+        "crawledAt": "2025-09-08 22:13:10.733382"
+    },
+    {
+        "id": "4711529",
+        "rank": 44,
+        "name": "[데일리룸 X 시즈] 오디너리 크롭 스트라이프 셔츠 [WHITE] 단품/SET",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250110/4711529/4711529_17373584397312_500.jpg",
+        "brand_en": "seez",
+        "brand": "시즈",
+        "price": 74000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            },
+            {
+                "name": "포멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4711529",
+        "crawledAt": "2025-09-08 22:13:14.311361"
+    },
+    {
+        "id": "5008446",
+        "rank": 45,
+        "name": "카롤라인 체인 자수 크롭 반팔티 화이트",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250409/5008446/5008446_17442457816111_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "페미닌",
+                "percentage": 20
+            },
+            {
+                "name": "심플",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5008446",
+        "crawledAt": "2025-09-08 22:13:17.580560"
+    },
+    {
+        "id": "4774342",
+        "rank": 46,
+        "name": "유니)C100 18수싱글 - LOCATION 티셔츠 (레귤러핏) (23COLOR) LRAMCTR702P",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250211/4774342/4774342_17417655661526_500.jpg",
+        "brand_en": "grooverhyme",
+        "brand": "그루브라임",
+        "price": 39000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "미니멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4774342",
+        "crawledAt": "2025-09-08 22:13:20.367755"
+    },
+    {
+        "id": "4186471",
+        "rank": 47,
+        "name": "빈티지 워싱 브라운  체크셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240610/4186471/4186471_17179929320187_500.jpg",
+        "brand_en": "huke",
+        "brand": "후크",
+        "price": 89000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            },
+            {
+                "name": "체크",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4186471",
+        "crawledAt": "2025-09-08 22:13:23.490581"
+    },
+    {
+        "id": "3609916",
+        "rank": 48,
+        "name": "퍼펙트 특양면 오버핏 숄더 2중절개 무지 반팔 티셔츠_7Color",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20231006/3609916/3609916_17472772035369_500.jpg",
+        "brand_en": "bysec",
+        "brand": "바이젝",
+        "price": 39000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "스웨트셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3609916",
+        "crawledAt": "2025-09-08 22:13:26.375150"
+    },
+    {
+        "id": "3875000",
+        "rank": 49,
+        "name": "프리미엄 머슬핏 무지 티셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240215/3875000/3875000_17194907427846_500.jpg",
+        "brand_en": "malden",
+        "brand": "몰든",
+        "price": 31000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "미니멀",
+                "percentage": 30
+            },
+            {
+                "name": "스포츠",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3875000",
+        "crawledAt": "2025-09-08 22:13:29.457992"
+    },
+    {
+        "id": "4705635",
+        "rank": 50,
+        "name": "레트로 오버핏 코튼 플란넬 포켓 체크 셔츠 [그린]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250108/4705635/4705635_17557569834501_500.jpg",
+        "brand_en": "lemainsecond",
+        "brand": "리메인세컨드",
+        "price": 41000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4705635",
+        "crawledAt": "2025-09-08 22:13:32.745519"
+    },
+    {
+        "id": "4374422",
+        "rank": 51,
+        "name": "노스텔지아 피그먼트 티셔츠_차콜",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240827/4374422/4374422_17532369782844_500.jpg",
+        "brand_en": "bubblpiece",
+        "brand": "버블피스",
+        "price": 39000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4374422",
+        "crawledAt": "2025-09-08 22:13:36.001015"
+    },
+    {
+        "id": "5353112",
+        "rank": 52,
+        "name": "멘즈 라이트웨이트 신칠라 스냅-티 풀오버 / 25551Q7",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250822/5353112/5353112_17558251071009_500.jpg",
+        "brand_en": "patagonia",
+        "brand": "파타고니아",
+        "price": 219000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "스냅 티",
+                "percentage": 80
+            },
+            {
+                "name": "후리스",
+                "percentage": 20
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "아웃도어",
+                "percentage": 30
+            },
+            {
+                "name": "스포티",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5353112",
+        "crawledAt": "2025-09-08 22:13:39.251120"
+    },
+    {
+        "id": "5255063",
+        "rank": 53,
+        "name": "릴렉스 핏 크루 넥 반팔 티셔츠 3팩",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250718/5255063/5255063_17550712305247_500.jpg",
+        "brand_en": "musinsastandard",
+        "brand": "무신사 스탠다드",
+        "price": 47700,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "기본",
+                "percentage": 40
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5255063",
+        "crawledAt": "2025-09-08 22:13:42.671493"
+    },
+    {
+        "id": "4306299",
+        "rank": 54,
+        "name": "Blue Chambray Work Shirt KR Ver.",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240807/4306299/4306299_17557402318569_500.jpg",
+        "brand_en": "bronson",
+        "brand": "브론슨",
+        "price": 74000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "데님 셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "워크 셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            },
+            {
+                "name": "스트릿",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4306299",
+        "crawledAt": "2025-09-08 22:13:46.161273"
+    },
+    {
+        "id": "5231695",
+        "rank": 55,
+        "name": "Folder L/S Tee Melange Gray",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250708/5231695/5231695_17526430517172_500.jpg",
+        "brand_en": "teket",
+        "brand": "테켓",
+        "price": 65000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "패치 디테일 팬츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5231695",
+        "crawledAt": "2025-09-08 22:13:49.261985"
+    },
+    {
+        "id": "5170644",
+        "rank": 56,
+        "name": "에센셜 크롭 티셔츠 [블랙]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250608/5170644/5170644_17500421531984_500.jpg",
+        "brand_en": "leire",
+        "brand": "르아르",
+        "price": 42000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "기본 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "미니멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5170644",
+        "crawledAt": "2025-09-08 22:13:53.321971"
+    },
+    {
+        "id": "2775711",
+        "rank": 57,
+        "name": "워셔블 하프 집업 카라넥 하찌 니트 (NEUTRAL GRAY)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220906/2775711/2775711_17171478169450_500.jpg",
+        "brand_en": "trillion",
+        "brand": "트릴리온",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "니트 스웨터",
+                "percentage": 90
+            },
+            {
+                "name": "폴로 니트",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2775711",
+        "crawledAt": "2025-09-08 22:13:56.774809"
+    },
+    {
+        "id": "4804544",
+        "rank": 58,
+        "name": "헬로 월드 LOVE 후드티_카모",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250219/4804544/4804544_17545350208896_500.jpg",
+        "brand_en": "mimthewardrobe",
+        "brand": "밈더워드로브",
+        "price": 85000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "밀리터리",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            },
+            {
+                "name": "그래픽",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4804544",
+        "crawledAt": "2025-09-08 22:13:59.658201"
+    },
+    {
+        "id": "2058133",
+        "rank": 59,
+        "name": "TAG OG LONGSLEEVE - BLACK",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20210811/2058133/2058133_17385429891236_500.jpg",
+        "brand_en": "brownbreath",
+        "brand": "브라운브레스",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "그래픽 티셔츠",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2058133",
+        "crawledAt": "2025-09-08 22:14:02.608633"
+    },
+    {
+        "id": "5301590",
+        "rank": 60,
+        "name": "TCM twist button long sleeve (black)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250807/5301590/5301590_17556793978080_500.png",
+        "brand_en": "thecoldestmoment",
+        "brand": "더콜디스트모먼트",
+        "price": 69000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "가디건",
+                "percentage": 70
+            },
+            {
+                "name": "블라우스",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "모던",
+                "percentage": 30
+            },
+            {
+                "name": "페미닌",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5301590",
+        "crawledAt": "2025-09-08 22:14:05.472072"
+    },
+    {
+        "id": "4288935",
+        "rank": 61,
+        "name": "ASI 에센셜 바이오워싱 데님 셔츠_더스트 인디고",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240801/4288935/4288935_17234533281193_500.jpg",
+        "brand_en": "dimitriblack",
+        "brand": "디미트리블랙",
+        "price": 45900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "데님 셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "워크 셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "빈티지",
+                "percentage": 30
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4288935",
+        "crawledAt": "2025-09-08 22:14:08.566808"
+    },
+    {
+        "id": "4832364",
+        "rank": 62,
+        "name": "TWIN STAR RINGER SS TEE 4colors(CV2FMUT549A)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250225/4832364/4832364_17543552103043_500.jpg",
+        "brand_en": "cavish",
+        "brand": "카비시",
+        "price": 45000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4832364",
+        "crawledAt": "2025-09-08 22:14:11.732369"
+    },
+    {
+        "id": "3533480",
+        "rank": 63,
+        "name": "스페이스 헤비코튼 후드 버건디 KMHD6723",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230906/3533480/3533480_16939610292721_500.jpg",
+        "brand_en": "ezkaton",
+        "brand": "에즈카톤",
+        "price": 63000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            },
+            {
+                "name": "그래픽",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3533480",
+        "crawledAt": "2025-09-08 22:14:14.604948"
+    },
+    {
+        "id": "2086653",
+        "rank": 64,
+        "name": "레이어드 크루 넥 반팔 티셔츠_일반 기장 [화이트]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20210825/2086653/2086653_17048764754484_500.jpg",
+        "brand_en": "musinsastandard",
+        "brand": "무신사 스탠다드",
+        "price": 16900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2086653",
+        "crawledAt": "2025-09-08 22:14:17.292374"
+    },
+    {
+        "id": "3927583",
+        "rank": 65,
+        "name": "워셔블 케이블 반팔 니트 - 14 COLOR",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240306/3927583/3927583_17152224792770_500.jpg",
+        "brand_en": "suare",
+        "brand": "수아레",
+        "price": 59000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "니트",
+                "percentage": 90
+            },
+            {
+                "name": "상의",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "모던",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3927583",
+        "crawledAt": "2025-09-08 22:14:20.872036"
+    },
+    {
+        "id": "3791891",
+        "rank": 66,
+        "name": "오버핏 포레스트 체크 셔츠-블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240112/3791891/3791891_17509001091121_500.jpg",
+        "brand_en": "filluminate",
+        "brand": "필루미네이트",
+        "price": 54000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "클래식",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3791891",
+        "crawledAt": "2025-09-08 22:14:24.606159"
+    },
+    {
+        "id": "994588",
+        "rank": 67,
+        "name": "옵티멀 베이직 셔츠-화이트[린넨＆옥스포드 선택]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20190326/994588/994588_16764335228041_500.jpg",
+        "brand_en": "filluminate",
+        "brand": "필루미네이트",
+        "price": 53000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "미니멀",
+                "percentage": 20
+            },
+            {
+                "name": "기본",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/994588",
+        "crawledAt": "2025-09-08 22:14:27.772520"
+    },
+    {
+        "id": "2302738",
+        "rank": 68,
+        "name": "TAG OG HOODIE - NAVY",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20220112/2302738/2302738_17385423363845_500.jpg",
+        "brand_en": "brownbreath",
+        "brand": "브라운브레스",
+        "price": 89000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2302738",
+        "crawledAt": "2025-09-08 22:14:32.685001"
+    },
+    {
+        "id": "4708446",
+        "rank": 69,
+        "name": "LACE NECK BUTTON LONG SLEEVE OATMEAL",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250109/4708446/4708446_17370813822225_500.jpg",
+        "brand_en": "prendafromplant",
+        "brand": "프렌다",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "크롭탑",
+                "percentage": 60
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 40
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4708446",
+        "crawledAt": "2025-09-08 22:14:35.777747"
+    },
+    {
+        "id": "5100406",
+        "rank": 70,
+        "name": "키쉬 반팔 체크셔츠 (차콜)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250510/5100406/5100406_17539263774236_500.jpg",
+        "brand_en": "anolorcode",
+        "brand": "어널러코드",
+        "price": 42000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5100406",
+        "crawledAt": "2025-09-08 22:14:38.698185"
+    },
+    {
+        "id": "4966349",
+        "rank": 71,
+        "name": "MRT 카모 아플리케 반팔티",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250331/4966349/4966349_17442482718307_500.jpg",
+        "brand_en": "venhit",
+        "brand": "벤힛",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "밀리터리",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4966349",
+        "crawledAt": "2025-09-08 22:14:41.646785"
+    },
+    {
+        "id": "3901720",
+        "rank": 72,
+        "name": "풋볼 져지 티셔츠_화이트",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240226/3901720/3901720_17521968601813_500.jpg",
+        "brand_en": "urbandtype",
+        "brand": "어반디타입",
+        "price": 39000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "조거 팬츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "스포츠",
+                "percentage": 10
+            },
+            {
+                "name": "미니멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3901720",
+        "crawledAt": "2025-09-08 22:14:44.538504"
+    },
+    {
+        "id": "4182646",
+        "rank": 73,
+        "name": "HUFF Hoppi 피그먼트 반팔티 스모크블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240607/4182646/4182646_17177373346475_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "그래픽 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "Y2K",
+                "percentage": 20
+            },
+            {
+                "name": "귀여운",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4182646",
+        "crawledAt": "2025-09-08 22:14:47.817588"
+    },
+    {
+        "id": "3039153",
+        "rank": 74,
+        "name": "케이블 니트 코튼 스웨터 - 블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230126/3039153/3039153_16764213820086_500.jpg",
+        "brand_en": "poloralphlauren",
+        "brand": "폴로 랄프 로렌",
+        "price": 259000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "스웨터",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "클래식",
+                "percentage": 30
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3039153",
+        "crawledAt": "2025-09-08 22:14:50.217106"
+    },
+    {
+        "id": "5310926",
+        "rank": 75,
+        "name": "스트라이프 사이드 언발 원오프숄더 단가라 티셔츠 _ 2COLOR",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250811/5310926/5310926_17549615810745_500.jpg",
+        "brand_en": "placestudio",
+        "brand": "플레이스 스튜디오",
+        "price": 41000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "프렌치 시크",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5310926",
+        "crawledAt": "2025-09-08 22:14:55.347559"
+    },
+    {
+        "id": "3870366",
+        "rank": 76,
+        "name": "3S 새틴 긴팔 티 - 화이트:블루 / IR6100",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240215/3870366/3870366_17080535258333_500.jpg",
+        "brand_en": "adidas",
+        "brand": "아디다스",
+        "price": 89000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스포츠",
+                "percentage": 70
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3870366",
+        "crawledAt": "2025-09-08 22:14:58.715753"
+    },
+    {
+        "id": "4725152",
+        "rank": 77,
+        "name": "투톤아치 후드_그레이",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250116/4725152/4725152_17558301740718_500.jpg",
+        "brand_en": "yale",
+        "brand": "예일",
+        "price": 79000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "대학생",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4725152",
+        "crawledAt": "2025-09-08 22:15:02.049386"
+    },
+    {
+        "id": "4881044",
+        "rank": 78,
+        "name": "Restchill 반팔 티셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250311/4881044/4881044_17416770285963_500.jpg",
+        "brand_en": "vivalavida",
+        "brand": "비바라비다",
+        "price": 39900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "그래픽",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4881044",
+        "crawledAt": "2025-09-08 22:15:04.709756"
+    },
+    {
+        "id": "4948710",
+        "rank": 79,
+        "name": "오션 웨일 반팔티 화이트",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250326/4948710/4948710_17430644435679_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "반팔",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "그래픽",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4948710",
+        "crawledAt": "2025-09-08 22:15:07.559633"
+    },
+    {
+        "id": "3158061",
+        "rank": 80,
+        "name": "[2pack] 메인 스몰 로고 에어 머슬핏 숏 슬리브",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230317/3158061/3158061_16790354815203_500.jpg",
+        "brand_en": "hadex",
+        "brand": "에이치덱스",
+        "price": 72000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "기본",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3158061",
+        "crawledAt": "2025-09-08 22:15:10.441421"
+    },
+    {
+        "id": "4949712",
+        "rank": 81,
+        "name": "Precious 레글런 반팔티 네이비",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250326/4949712/4949712_17430645346250_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            },
+            {
+                "name": "귀여운",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4949712",
+        "crawledAt": "2025-09-08 22:15:13.188028"
+    },
+    {
+        "id": "4762781",
+        "rank": 82,
+        "name": "STAR WING SHEER LONG SLEEVE_PK",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250206/4762781/4762781_17398445324876_500.jpg",
+        "brand_en": "gilaarchive",
+        "brand": "길라아카이브",
+        "price": 59000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 70
+            },
+            {
+                "name": "스커트",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            },
+            {
+                "name": "Y2K",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4762781",
+        "crawledAt": "2025-09-08 22:15:16.188717"
+    },
+    {
+        "id": "5328890",
+        "rank": 83,
+        "name": "자수 골지 세미크롭 사이드 버튼 후드 롱 슬림 긴팔 티셔츠 _ 3COLOR",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250818/5328890/5328890_17554797665395_500.jpg",
+        "brand_en": "placestudio",
+        "brand": "플레이스 스튜디오",
+        "price": 42000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 90
+            },
+            {
+                "name": "크롭탑",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스포츠",
+                "percentage": 20
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5328890",
+        "crawledAt": "2025-09-08 22:15:18.762816"
+    },
+    {
+        "id": "5302631",
+        "rank": 84,
+        "name": "Y.E.S Hardware L/S Grey",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250807/5302631/5302631_17554847580243_500.jpg",
+        "brand_en": "yeseyesee",
+        "brand": "예스아이씨",
+        "price": 54000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "그래픽",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5302631",
+        "crawledAt": "2025-09-08 22:15:21.473743"
+    },
+    {
+        "id": "4439882",
+        "rank": 85,
+        "name": "루즈핏 빅로고 긴소매 Black",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240913/4439882/4439882_17326933757238_500.jpg",
+        "brand_en": "dickies",
+        "brand": "디키즈",
+        "price": 69000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "워크웨어",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4439882",
+        "crawledAt": "2025-09-08 22:15:25.173585"
+    },
+    {
+        "id": "4797203",
+        "rank": 86,
+        "name": "더 시티 스트라이프 셔츠 (차콜블랙)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250218/4797203/4797203_17398583796881_500.jpg",
+        "brand_en": "huke",
+        "brand": "후크",
+        "price": 73000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "스트라이프 셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "긴팔 셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "미니멀",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4797203",
+        "crawledAt": "2025-09-08 22:15:29.091200"
+    },
+    {
+        "id": "4434539",
+        "rank": 87,
+        "name": "시티보이 빅 오버핏 플레이드 체크 셔츠 2Color",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240912/4434539/4434539_17261220660899_500.jpg",
+        "brand_en": "untapped",
+        "brand": "언탭트 스튜디오",
+        "price": 49960,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 60
+            },
+            {
+                "name": "후드티",
+                "percentage": 40
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            },
+            {
+                "name": "체크",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4434539",
+        "crawledAt": "2025-09-08 22:15:32.806199"
+    },
+    {
+        "id": "3269419",
+        "rank": 88,
+        "name": "10.6 oz Cotton Short Sleeve Henley Tee Dark Grey",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230428/3269419/3269419_16850650749352_500.jpg",
+        "brand_en": "bronson",
+        "brand": "브론슨",
+        "price": 49000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "헨리넥 티셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "라운드넥 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 70
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3269419",
+        "crawledAt": "2025-09-08 22:15:35.613200"
+    },
+    {
+        "id": "4439881",
+        "rank": 89,
+        "name": "루즈핏 빅로고 긴소매 White",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240913/4439881/4439881_17326933699951_500.jpg",
+        "brand_en": "dickies",
+        "brand": "디키즈",
+        "price": 69000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            },
+            {
+                "name": "레트로",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4439881",
+        "crawledAt": "2025-09-08 22:15:39.140167"
+    },
+    {
+        "id": "3452229",
+        "rank": 90,
+        "name": "리벳 아플리케 포켓 로고 후드 클래식 네이비",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230808/3452229/3452229_17453913332523_500.jpg",
+        "brand_en": "satur",
+        "brand": "세터",
+        "price": 139000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 90
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            },
+            {
+                "name": "빈티지",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3452229",
+        "crawledAt": "2025-09-08 22:15:42.601692"
+    },
+    {
+        "id": "4711280",
+        "rank": 91,
+        "name": "VH CREW 후드티",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250110/4711280/4711280_17370785218504_500.jpg",
+        "brand_en": "venhit",
+        "brand": "벤힛",
+        "price": 55900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            },
+            {
+                "name": "밀리터리",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4711280",
+        "crawledAt": "2025-09-08 22:15:45.750711"
+    },
+    {
+        "id": "3856743",
+        "rank": 92,
+        "name": "[여름 라이크린넨 추가]시티보이 빅 오버핏 빅사이즈 옥스포드 셔츠 8COLOR",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240207/3856743/3856743_17177615485090_500.jpg",
+        "brand_en": "untapped",
+        "brand": "언탭트 스튜디오",
+        "price": 45900,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 셔츠",
+                "percentage": 90
+            },
+            {
+                "name": "라운드넥 티셔츠",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 40
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 20
+            },
+            {
+                "name": "미니멀",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3856743",
+        "crawledAt": "2025-09-08 22:15:48.685665"
+    },
+    {
+        "id": "4345042",
+        "rank": 93,
+        "name": "T-Logo Hoodie Black",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240820/4345042/4345042_17248088811417_500.jpg",
+        "brand_en": "thisisneverthat",
+        "brand": "디스이즈네버댓",
+        "price": 95000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 90
+            },
+            {
+                "name": "맨투맨",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4345042",
+        "crawledAt": "2025-09-08 22:15:51.510593"
+    },
+    {
+        "id": "3203594",
+        "rank": 94,
+        "name": "[3PACK] 릴렉스핏 쿨링  코튼 티셔츠",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20230404/3203594/3203594_17459131524729_500.jpg",
+        "brand_en": "fcmm",
+        "brand": "에프씨엠엠",
+        "price": 117000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 80
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/3203594",
+        "crawledAt": "2025-09-08 22:15:54.273885"
+    },
+    {
+        "id": "2058188",
+        "rank": 95,
+        "name": "TAG OG HOODIE - BLACK",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20210811/2058188/2058188_17385424365967_500.jpg",
+        "brand_en": "brownbreath",
+        "brand": "브라운브레스",
+        "price": 89000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "후드티",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 60
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 30
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/2058188",
+        "crawledAt": "2025-09-08 22:15:57.311997"
+    },
+    {
+        "id": "5278620",
+        "rank": 96,
+        "name": "베이직 스트라이프 코튼 하프 긴팔 카라 셔츠 _ 3COLOR",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250729/5278620/5278620_17537733228487_500.jpg",
+        "brand_en": "placestudio",
+        "brand": "플레이스 스튜디오",
+        "price": 42000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "미니멀",
+                "percentage": 30
+            },
+            {
+                "name": "스트릿",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5278620",
+        "crawledAt": "2025-09-08 22:16:00.032795"
+    },
+    {
+        "id": "4990661",
+        "rank": 97,
+        "name": "와플 헨리넥 하프 티셔츠 [BLACK]",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250404/4990661/4990661_17442627605879_500.jpg",
+        "brand_en": "drawfit",
+        "brand": "드로우핏",
+        "price": 34000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "henley shirt",
+                "percentage": 90
+            },
+            {
+                "name": "polo shirt",
+                "percentage": 10
+            }
+        ],
+        "styleList": [
+            {
+                "name": "casual",
+                "percentage": 70
+            },
+            {
+                "name": "street",
+                "percentage": 30
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4990661",
+        "crawledAt": "2025-09-08 22:16:02.851806"
+    },
+    {
+        "id": "5223338",
+        "rank": 98,
+        "name": "캣 스티치 피그먼트 반팔티 스모크블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250702/5223338/5223338_17514498459374_500.jpg",
+        "brand_en": "compagno",
+        "brand": "꼼파뇨",
+        "price": 52000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "티셔츠",
+                "percentage": 100
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 50
+            },
+            {
+                "name": "스트릿",
+                "percentage": 30
+            },
+            {
+                "name": "빈티지",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5223338",
+        "crawledAt": "2025-09-08 22:16:05.674087"
+    },
+    {
+        "id": "5045551",
+        "rank": 99,
+        "name": "럭비 오버핏 메시 저지 하프 슬리브_블랙",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250420/5045551/5045551_17459121286173_500.jpg",
+        "brand_en": "drix",
+        "brand": "드릭스",
+        "price": 48000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "저지",
+                "percentage": 80
+            },
+            {
+                "name": "티셔츠",
+                "percentage": 20
+            }
+        ],
+        "styleList": [
+            {
+                "name": "스트릿",
+                "percentage": 50
+            },
+            {
+                "name": "오버사이즈/배기",
+                "percentage": 30
+            },
+            {
+                "name": "캐주얼",
+                "percentage": 15
+            },
+            {
+                "name": "스포츠",
+                "percentage": 5
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5045551",
+        "crawledAt": "2025-09-08 22:16:08.349968"
+    },
+    {
+        "id": "5376111",
+        "rank": 100,
+        "name": "마운틴 롱슬리브 스카이블루 (우먼)",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20250828/5376111/5376111_17566264200137_500.jpg",
+        "brand_en": "tansanmagnesium",
+        "brand": "탄산마그네슘",
+        "price": 69000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "스트레이트 팬츠",
+                "percentage": 70
+            },
+            {
+                "name": "와이드 팬츠",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 60
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "미니멀",
+                "percentage": 20
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/5376111",
+        "crawledAt": "2025-09-08 22:16:11.178344"
+    },
+    {
+        "id": "4375159",
+        "rank": 101,
+        "name": "럭비 폴로 셔츠 - 블랙 / IZ4806",
+        "thumbnail": "https://image.msscdn.net/images/goods_img/20240827/4375159/4375159_17248303115071_500.jpg",
+        "brand_en": "adidas",
+        "brand": "아디다스",
+        "price": 79000,
+        "category": "상의",
+        "categoryList": [
+            {
+                "name": "긴팔 티셔츠",
+                "percentage": 70
+            },
+            {
+                "name": "폴로셔츠",
+                "percentage": 30
+            }
+        ],
+        "styleList": [
+            {
+                "name": "캐주얼",
+                "percentage": 40
+            },
+            {
+                "name": "스포츠",
+                "percentage": 30
+            },
+            {
+                "name": "스트릿",
+                "percentage": 20
+            },
+            {
+                "name": "클래식",
+                "percentage": 10
+            }
+        ],
+        "originUrl": "https://www.musinsa.com/products/4375159",
+        "crawledAt": "2025-09-08 22:16:13.850986"
+    }
+]
