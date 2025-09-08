@@ -4,7 +4,9 @@ import numpy as np
 from sklearn.feature_extraction import DictVectorizer
 from sentence_transformers import SentenceTransformer
 
-# 파일 경로 설정
+# db 저장 함수 불러옴
+from database import save_vectors_to_mongo
+
 data_dir = '.'
 
 # SBERT 모델 로드
@@ -53,7 +55,7 @@ def vectorize_weighted_features(item_data, all_unique_features_dict):
 def get_final_vectors(items, sbert_model):
     final_vectors = {}
 
-    # 1. 모든 아이템의 가중치 특징(category, style) 고유값 목록화
+    # 가중치 특징(category, style) 고유값 목록화
     all_unique_features = set()
     for item in items:
         for feature_list in [item.get('categoryList', []), item.get('styleList', [])]:
@@ -62,7 +64,7 @@ def get_final_vectors(items, sbert_model):
     
     all_unique_features_dict = {name: i for i, name in enumerate(sorted(list(all_unique_features)))}
 
-    # ⚠️ 개선된 부분: DictVectorizer의 학습을 루프 밖에서 한 번만 수행
+    # DictVectorizer의 학습을 루프 밖에서 한 번만 수행
     all_brand_gender_features = [{'brand': item.get('brand', ''), 'gender': item.get('gender', '')} for item in items]
     brand_gender_vectorizer = DictVectorizer(sparse=False)
     brand_gender_vectorizer.fit(all_brand_gender_features)
@@ -102,3 +104,8 @@ if item_vectors:
     print(f"상품 ID: {first_item_id}")
     print(f"최종 벡터 차원: {sample_vector.shape}")
     print(f"최종 벡터 (일부):\n{sample_vector[:10]}...")
+    # print(item_vectors[first_item_id])
+    # db에 저장
+    save_vectors_to_mongo(item_vectors)
+
+
