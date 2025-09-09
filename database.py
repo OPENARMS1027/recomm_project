@@ -56,7 +56,7 @@ def save_vectors_to_mongo(item_vectors: dict):
         client.close()
 
 # ⚠️ 사용 예시 (item_vectors 딕셔너리가 이미 생성되었다고 가정)
-# 예시 더미 데이터:
+# 예시 더미 데이터:/dd
 # item_vectors = {
 #     "123": np.random.rand(384),
 #     "456": np.random.rand(384),
