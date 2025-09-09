@@ -107,5 +107,6 @@ if item_vectors:
     # print(item_vectors[first_item_id])
     # db에 저장
     save_vectors_to_mongo(item_vectors)
+    print('DB 저장까지 완료')
 
 

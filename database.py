@@ -1,13 +1,17 @@
 import numpy as np
+import os 
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo import UpdateOne
+
+load_dotenv()
 
 # 벡터화된 데이터
 vector_data = ''
 
 # 교체 필요
-MONGO_URI = "mongodb://localhost:27017/"
-DB_NAME = "clothes_recommendation"
+MONGO_URI = os.getenv("DB_MONGO_URI")
+DB_NAME = "crawl"
 COLLECTION_NAME = "items"
 
 
