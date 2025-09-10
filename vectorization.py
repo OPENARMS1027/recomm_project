@@ -1,3 +1,4 @@
+# 상품 데이터 벡터화
 import json
 import os
 import numpy as np
