@@ -1,5 +1,4 @@
 # sessionstorage데이터 기반 사용자 벡터화
-
 import numpy as np
 import os
 from pymongo import MongoClient
@@ -10,8 +9,8 @@ from sentence_transformers import SentenceTransformer
 sbert_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 MONGO_URI = os.getenv("DB_MONGO_URI")
-DB_NAME = "crawl"
-COLLECTION_NAME = "items"
+DB_NAME = "S13P22E202"
+COLLECTION_NAME = "user_vector"
 
 # 벡터 차원 상수 정의 필요
 VECTOR_DIMENSION = ''

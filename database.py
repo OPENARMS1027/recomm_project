@@ -11,7 +11,7 @@ vector_data = ''
 
 # 교체 필요
 MONGO_URI = os.getenv("DB_MONGO_URI")
-DB_NAME = "crawl"
+DB_NAME = "S13P22E202"
 COLLECTION_NAME = "items"
 
 
